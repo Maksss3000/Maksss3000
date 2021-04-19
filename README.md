@@ -3,7 +3,7 @@
 ### Hello    I’m Max !
 
  
-
+:white_check_mark: Это уже сделано 
 
 
 ## *Languages and Tools*

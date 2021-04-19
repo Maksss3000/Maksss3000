@@ -1,9 +1,13 @@
 ![Header](https://github.com/Maksss3000/Maksss3000/blob/main/assets/beautifulView.png "Header")
 
-### Hello    I’m Max !
+### Hello :wave: I’m Max !
 
++ :muscle: I love to write code.
++ :books: Like to read books.
++ :chart_with_upwards_trend: I am constantly learning new things.
++ :bike:  My *hobby* Motorcycles and Traveling.
  
-:white_check_mark: Это уже сделано 
+
 
 
 ## *Languages and Tools*

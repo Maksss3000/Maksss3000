@@ -23,7 +23,7 @@ ___
 
 ## Follow me.
 ___
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0000FF)](www.linkedin.com/in/maksimilianr)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/maksimilianr/)
 
 
  

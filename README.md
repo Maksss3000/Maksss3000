@@ -12,7 +12,6 @@
 
 ## *Languages and Tools*
 ___
-![PHP](https://img.shields.io/badge/-Php-000000?style=for-the-badge&logo=php&logoColor=0000FF)
 ![C#](https://img.shields.io/badge/c%23%20-000000?style=for-the-badge&logo=c-sharp&logoColor=9400D3)
 ![.NET](https://img.shields.io/badge/-Framework-000000?style=for-the-badge&logo=.NET&logoColor=8A2BE2)
 <br>

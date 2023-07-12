@@ -2,7 +2,7 @@
 
 ### Hello :wave: I’m Max !
 
-+ :muscle: I love to write code.
++ :muscle: .NET Backend Developer.
 + :books: Like to read books.
 + :chart_with_upwards_trend: I am constantly learning new things.
 + :bike:  My *hobby* Motorcycles and Traveling.

@@ -4,7 +4,7 @@
 
 + :muscle: .NET Backend Developer.
 + :books: Like to read books.
-+ :chart_with_upwards_trend: I am constantly learning new things.
++ :chart_with_upwards_trend: Constantly learning new things.
 + :bike:  My *hobby* Motorcycles and Traveling.
  
 
